@@ -1,0 +1,25 @@
+{
+  "name": "@fippli/action-creator",
+  "version": "1.0.0",
+  "description": "Create actions for React reducers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fippli/action-creator.git"
+  },
+  "author": "Filip Johansson, <filip.johansson@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fippli/action-creator/issues"
+  },
+  "homepage": "https://github.com/fippli/action-creator#readme",
+  "dependencies": {
+    "@fippli/snake-case-to-camel-case": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
